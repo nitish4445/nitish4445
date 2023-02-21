@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/@nitishk150" target="blank"><img src="https://img.shields.io/twitter/follow/@nitishk150?logo=twitter&style=for-the-badge" alt="@nitishk150" /></a> </p>
 
-- 🔭 I’m currently working on **AgriFieldNet India Challenge**
+- 🔭 I’m currently working on ** Crop maping using Remote sensing (it is the my Dissertation of M.tech) **
 
 - 🌱 I’m currently learning **Full stack Development,Data Science**
 
-- 👯 I’m looking to collaborate on **AgriFieldNet India Challenge**
+- 👯 I’m looking to collaborate on **Data Science**
 
 - 💬 Ask me about **Java,Sql,AI,ML**
 
